@@ -1,4 +1,4 @@
-# Conversor de Moneda
+# Conversor de Monedas
 
 Este proyecto es una aplicación de consola desarrollada en Java que permite realizar conversiones entre diferentes tipos de monedas utilizando tasas de cambio actualizadas proporcionadas por la API de [ExchangeRate-API](https://www.exchangerate-api.com/).
 
@@ -10,7 +10,11 @@ El Conversor de Monedas es una herramienta útil para aquellos que necesitan rea
 
 El proyecto sigue el patrón de diseño MVC (Modelo-Vista-Controlador) para una estructura modular y organizada:
 
-- **Modelo (Model)**: Representa los datos y la lógica de negocio. Incluye las clases `Conversion`, `Consultas`, `Moneda` y `GeneradorDeArchivos`.
+- **Modelo (Model)**: Representa los datos y la lógica de negocio. Incluye las siguientes clases:
+  - `Conversion`: Contiene la lógica principal para realizar las conversiones de moneda.
+  - `Consultas`: Realiza consultas a la API de ExchangeRate-API para obtener las tasas de cambio actualizadas.
+  - `Moneda`: Representa los datos de las tasas de cambio obtenidas de la API.
+  - `GeneradorDeArchivos`: Se encarga de generar archivos JSON que contienen información sobre las conversiones realizadas.
 - **Vista (View)**: Responsable de la interacción con el usuario. Implementada en la clase `Menu`.
 - **Controlador (Controller)**: Coordina las interacciones entre el modelo y la vista. Implementado en la clase `Main`.
 
