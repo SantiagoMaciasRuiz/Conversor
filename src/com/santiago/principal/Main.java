@@ -18,11 +18,14 @@ public class Main {
                 var valorFinal = convertir.ConvertirMoneda(lectura.nextInt());
                 //GeneradorDeArchivos generador = new GeneradorDeArchivos();
                 //generador.guardarJson(moneda);
+                if (valorFinal == 7){
+                    break;
+                }
 
 
             }
         }catch (RuntimeException e){
-            System.out.println("F");
+            System.out.println("Se Detecto un error...");
         }
     }
 }

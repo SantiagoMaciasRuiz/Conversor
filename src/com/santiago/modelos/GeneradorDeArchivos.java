@@ -5,7 +5,7 @@ import com.google.gson.GsonBuilder;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Map;
+
 
 public class GeneradorDeArchivos {
     public void guardarJson(Moneda moneda) throws IOException {
