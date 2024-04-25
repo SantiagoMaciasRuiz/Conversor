@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faea786a-91c3-4a22-98b3-35f52074f689" name="Changes" comment="ciclo 2">
+    <list default="true" id="faea786a-91c3-4a22-98b3-35f52074f689" name="Changes" comment="ciclo 3(probablemente final)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/GeneradorDeArchivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/GeneradorDeArchivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/Moneda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/Moneda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/santiago/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/principal/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +89,7 @@
       <updated>1713933639577</updated>
       <workItem from="1713933642556" duration="6011000" />
       <workItem from="1713990519889" duration="5659000" />
-      <workItem from="1714019290044" duration="1347000" />
+      <workItem from="1714019290044" duration="1965000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <created>1713933822416</created>
@@ -107,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714019360460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ciclo 3(probablemente final)">
+      <created>1714020777156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714020777156</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inicio" />
     <MESSAGE value="ciclo 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ciclo 2" />
+    <MESSAGE value="ciclo 3(probablemente final)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ciclo 3(probablemente final)" />
   </component>
 </project>

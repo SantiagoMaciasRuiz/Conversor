@@ -51,6 +51,7 @@ public class Conversion {
                 moneda = consulta.buscaMonedas(tipoMoneda,tipoMoneda2);
                 valorConvertido = (float) (moneda * (float) cantidad);
                 System.out.println("El valor "+ (float) cantidad+ " ["+tipoMoneda + "]" +" Corresponde al valor final de ==>" + valorConvertido + " ["+ tipoMoneda2+"]");
+
                 return  valorConvertido;
             case 5:
                 menu.mensaje2();

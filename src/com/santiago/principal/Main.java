@@ -16,6 +16,7 @@ public class Main {
             while (true){
                 menu.Mensaje();
                 var valorFinal = convertir.ConvertirMoneda(lectura.nextInt());
+                Thread.sleep(2000);
                 //GeneradorDeArchivos generador = new GeneradorDeArchivos();
                 //generador.guardarJson(moneda);
                 if (valorFinal == 7){
@@ -26,6 +27,8 @@ public class Main {
             }
         }catch (RuntimeException e){
             System.out.println("Se Detecto un error...");
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
         }
     }
 }
