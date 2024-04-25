@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faea786a-91c3-4a22-98b3-35f52074f689" name="Changes" comment="ciclo 3(probablemente final)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/santiago/modelos/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/modelos/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/santiago/principal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/santiago/principal/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="faea786a-91c3-4a22-98b3-35f52074f689" name="Changes" comment="readme agg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +84,7 @@
       <updated>1713933639577</updated>
       <workItem from="1713933642556" duration="6011000" />
       <workItem from="1713990519889" duration="5659000" />
-      <workItem from="1714019290044" duration="1965000" />
+      <workItem from="1714019290044" duration="2342000" />
     </task>
     <task id="LOCAL-00001" summary="inicio">
       <created>1713933822416</created>
@@ -112,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1714020777156</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="readme agg">
+      <created>1714021544569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714021544569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +135,7 @@
     <MESSAGE value="inicio" />
     <MESSAGE value="ciclo 2" />
     <MESSAGE value="ciclo 3(probablemente final)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ciclo 3(probablemente final)" />
+    <MESSAGE value="readme agg" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme agg" />
   </component>
 </project>
